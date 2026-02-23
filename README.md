@@ -45,4 +45,4 @@ Clone repository
 
 Configure database connection in config.properties
 
-Compile and run Main.java
+Compile and run PlatfromGUI.java
